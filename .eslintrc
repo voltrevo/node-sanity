@@ -1,0 +1,12 @@
+{
+  "extends": "eslint-config-opentok",
+  "rules": {
+    "no-console": 0,
+    "no-alert": 0,
+    "spaced-comment": 0,
+    "consistent-this": 0
+  },
+  "plugins": [
+    "require-path-exists"
+  ]
+}

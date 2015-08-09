@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/voltrevo/node-sanity/issues"
   },
-  "homepage": "https://github.com/voltrevo/node-sanity#readme"
+  "homepage": "https://github.com/voltrevo/node-sanity#readme",
+  "devDependencies": {
+    "eslint": "^0.24.1",
+    "eslint-config-opentok": "0.0.1",
+    "eslint-plugin-require-path-exists": "^1.0.15"
+  }
 }
