@@ -1,0 +1,26 @@
+{
+  "name": "node-sanity",
+  "version": "0.0.1",
+  "description": "A bold new testing style.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voltrevo/node-sanity.git"
+  },
+  "keywords": [
+    "node",
+    "sanity",
+    "test",
+    "testing",
+    "sandbox"
+  ],
+  "author": "Andrew Morris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/voltrevo/node-sanity/issues"
+  },
+  "homepage": "https://github.com/voltrevo/node-sanity#readme"
+}
